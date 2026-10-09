@@ -1,0 +1,15 @@
+{
+  "clients": [
+    {
+      "slug": "acme",
+      "name": "Acme Corp",
+      "bison": { "workspace_id": 12 },
+      "heyreach": { "enabled": true }
+    },
+    {
+      "slug": "globex",
+      "name": "Globex",
+      "bison": { "workspace_id": 14 },
+      "heyreach": null
+    }
+  ]

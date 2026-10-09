@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+
+# Your own client list (names, workspace IDs). Each user creates it with `setup`.
+clients.json
+
+# Internal planning notes (kept locally, not published)
+BUILD.md
+task.md
