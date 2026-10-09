@@ -199,4 +199,3 @@ Each run then counts only what arrived since the previous scheduled run. Keep ru
 - Share keys only through a password manager.
 - `.env` and `clients.json` stay on your computer. Never commit them to Git.
 - Never put `BISON_MASTER_KEY` or `HEYREACH_ORG_KEY` in Claude.
-# delegate-inbox-check-to-Claude git init git add . git commit -m first commit git branch -M main git remote add origin https://github.com/dipbiksha/delegate-inbox-check-to-Claude.git git push -u origin main
